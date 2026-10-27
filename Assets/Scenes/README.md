@@ -1,0 +1,2 @@
+# First scene
+Open Unity and create a scene named Main.unity. Add an empty GameObject named PIXELFALLBootstrap and attach Assets/Scripts/PIXELFALLBootstrap.cs. Set the scene as the first item in Build Settings. The next setup step will automate scene creation and add touch controls/combat.
